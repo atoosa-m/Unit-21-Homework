@@ -19,9 +19,10 @@ In this section, I have defined the KaseiCoin crowdsale contract which inherits 
 - *MintedCrowdsale*  
 
 ### Step 3: Create the KaseiCoin Deployer Contract  
+In step 3, I have created the KaseiCoin deployer contract.
 
-
-### Step 4: Deploy and Test the Crowdsale on a Local Blockchain
+### Step 4: Deploy and Test the Crowdsale on a Local Blockchain  
+In this section, I have deployed the crowdsale to a local blockchain and then performed a real-world, preproduction test of my crowdsale.  
 
 ## Evaluation Evidence  
 
@@ -29,7 +30,13 @@ In this section, I have defined the KaseiCoin crowdsale contract which inherits 
 ![compilation_of_the_contract](https://user-images.githubusercontent.com/93611442/163695532-96fb5576-3637-441a-9fb4-f4dab189b2f0.jpg)  
 
 #### Compilation of the KaseiCoin Crowdsale Contract  
-![compilation_of_the_crowdsale_contract](https://user-images.githubusercontent.com/93611442/163695537-9a843c11-26d7-4a56-8bea-43e88aebcb92.jpg)
+![compilation_of_the_crowdsale_contract](https://user-images.githubusercontent.com/93611442/163695537-9a843c11-26d7-4a56-8bea-43e88aebcb92.jpg)  
+
+#### Compilation of the KaseiCoin Deployer Contract  
+![compilation_of_the_crowdsale_deployer_contract](https://user-images.githubusercontent.com/93611442/163874437-eb3ad505-ff6a-401d-a960-98ce2f943618.jpg)  
+
+
+
 
   
 
