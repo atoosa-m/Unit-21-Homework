@@ -14,7 +14,7 @@ My smart contract inherits the three contracts that I imported from OpenZeppelin
 - *ERC20Mintable*
 
 ### Step 2: Create the KaseiCoin Crowdsale Contract  
-In this section, I have defined the KaseiCoin crowdsale contract which inherits the following OpenZeppelin contracts:  
+Then, I have defined the KaseiCoin crowdsale contract which inherits the following OpenZeppelin contracts:  
 - *Crowdsale*  
 - *MintedCrowdsale*  
 
@@ -22,7 +22,7 @@ In this section, I have defined the KaseiCoin crowdsale contract which inherits 
 In step 3, I have created the KaseiCoin deployer contract.
 
 ### Step 4: Deploy and Test the Crowdsale on a Local Blockchain  
-In this section, I have deployed the crowdsale to a local blockchain and then performed a real-world, preproduction test of my crowdsale.  
+In this section, I have deployed the crowdsale to a local blockchain by using Remix, MetaMask and Ganache and then performed a real-world, preproduction test of my crowdsale. Please see *Deploy and Test the Crowdsale* folder, which is included in *Evaluation Evidence* folder, for all the screenshots of the 'testing functionality' process.  
 
 ## Evaluation Evidence  
 
@@ -34,11 +34,4 @@ In this section, I have deployed the crowdsale to a local blockchain and then pe
 
 #### Compilation of the KaseiCoin Deployer Contract  
 ![compilation_of_the_crowdsale_deployer_contract](https://user-images.githubusercontent.com/93611442/163874437-eb3ad505-ff6a-401d-a960-98ce2f943618.jpg)  
-
-
-
-
-  
-
-
 
